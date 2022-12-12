@@ -112,7 +112,7 @@ let questions = [
   },
   {
     numb: 11,
-    question: "Which of these was the shortest marraige?",
+    question: "Alex and Izzie",
     answer: "Meredith and Alex",
     options: [
       "Alex and Izzie",
@@ -190,7 +190,7 @@ let questions = [
   {
     numb: 18,
     question: "Which doctors are in the plane crash?",
-    answer: "Meredith and Alex",
+    answer: "Meredith, Cristina, Derek, Mark, Lexie, and Arizona.",
     options: [
       "Meredith, Alex, Derek, Mark, Lexie, and Arizona",
       "Meredith, Cristina, Derek, Mark, Lexie, and Callie",
