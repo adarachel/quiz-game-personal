@@ -112,8 +112,8 @@ let questions = [
   },
   {
     numb: 11,
-    question: "Alex and Izzie",
-    answer: "Meredith and Alex",
+    question: "Which marriage was the shortest?",
+    answer: "Alex and Izzie",
     options: [
       "Alex and Izzie",
       "Cristina and Owen",

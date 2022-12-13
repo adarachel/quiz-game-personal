@@ -430,10 +430,11 @@ border-radius:7px 7px 7px 7px ;
 
 @media (max-width: 480px) {
     html {
-        min-height: 100%;
         background-image: url(img/cristina.jpg);
         background-size: cover;
-        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
     }
     .welcome-title {
         display: none;
